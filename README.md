@@ -9,6 +9,6 @@ Features: Mean of Mel-frequency cepstral coefficients (MFCCs)
 
   Method: Architecture with 3 neighbors, Euclidian distance and uniform weight assigned to each neighbor.    
   
-  Result: Accuracy in the neighbourhood of 80% 
+  Result: Accuracy in the neighbourhood of 90% 
 
 
